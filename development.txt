@@ -1,3 +1,1 @@
 this is sample file for development.
-
-this are the changes for revert
